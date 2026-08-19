@@ -41,8 +41,8 @@ Jarabe%20De%20Palo%20-%20Bonito%20(Videoclip%20Oficial).mp4
 #EXTINF:308,Jorge Luis Chacin - Si usted la viera.mp4
 #EXTVLCOPT:file-caching=1000
 Jorge%20Luis%20Chacin%20-%20Si%20usted%20la%20viera.mp4
-#EXTINF:208,Juan Luis Guerra 4.40 - Lámpara Pa' Mis Pies.mp4
-#EXTVLCOPT:file-caching=1000
+#EXTINF:-1,Juan Luis Guerra 4.40 - Lámpara Pa' Mis Pies
+https://raw.githubusercontent.com/alejocardozo83/VIDEOS/main/Juan%20Luis%20Guerra%204.40%20-%20L%C3%A1mpara%20Pa'%20Mis%20Pies.mp4
 Juan%20Luis%20Guerra%204.40%20-%20L%C3%A1mpara%20Pa'%20Mis%20Pies.mp4
 #EXTINF:226,Legado - Me Liberé (cover audio).mp4
 #EXTVLCOPT:file-caching=1000
